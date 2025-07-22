@@ -3,6 +3,17 @@ step 2: git add .
 step 3: git commit -m " message "
 step 4: git push
 
+or
+
+bash:
+git add . && git commit -m "Backup on $(date '+%Y-%m-%d %H:%M:%S')" && git push
+
+power shell
+
+git add .; git commit -m "Backup on $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"; git push
+
+
+
 
 
 
