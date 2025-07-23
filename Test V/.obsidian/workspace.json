@@ -35,7 +35,8 @@
               "title": "USE CASE 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01bad9a7a226dedf",
+  "active": "f92bf13f526e51c1",
   "lastOpenFiles": [
-    "I Score/USE CASE 1.md",
     "Deep Learning with PyTorch/Course notes.md",
+    "I Score/USE CASE 1.md",
     "I Score",
     "Deep Learning with PyTorch/Intro to Deep Learning with PyTorch - Udacity.md",
     "Deep Learning with PyTorch",
